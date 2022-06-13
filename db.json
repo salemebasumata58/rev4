@@ -1,0 +1,87 @@
+{
+    "company": [
+        {
+        "id": 1,
+        "company_name": "Babblestorm"
+      }, {
+        "id": 2,
+        "company_name": "Meejo"
+      }, {
+        "id": 3,
+        "company_name": "Jaxbean"
+      }, {
+        "id": 4,
+        "company_name": "Zoozzy"
+      }, {
+        "id": 5,
+        "company_name": "Oloo"
+      }, {
+        "id": 6,
+        "company_name": "Oyoyo"
+      }, {
+        "id": 7,
+        "company_name": "Myworks"
+      }, {
+        "id": 8,
+        "company_name": "Quamba"
+      }, {
+        "id": 9,
+        "company_name": "Zoovu"
+      }, {
+        "id": 10,
+        "company_name": "Yozio"
+      }
+    ],
+    "employee": [
+        {
+        "id": 1,
+        "company_name": "Skinix",
+        "employee_name": "Melicent Meanwell",
+        "salary": "$6.94"
+      }, {
+        "id": 2,
+        "company_name": "Skimia",
+        "employee_name": "Ricoriki Billett",
+        "salary": "$4.81"
+      }, {
+        "id": 3,
+        "company_name": "Twimbo",
+        "employee_name": "Pattin Reynoldson",
+        "salary": "$1.23"
+      }, {
+        "id": 4,
+        "company_name": "Zoozzy",
+        "employee_name": "Lucila Houlaghan",
+        "salary": "$7.01"
+      }, {
+        "id": 5,
+        "company_name": "Vitz",
+        "employee_name": "Lucilia Rubinovici",
+        "salary": "$1.04"
+      }, {
+        "id": 6,
+        "company_name": "Skimia",
+        "employee_name": "Derwin Mattiassi",
+        "salary": "$5.91"
+      }, {
+        "id": 7,
+        "company_name": "Kwideo",
+        "employee_name": "Penrod Busain",
+        "salary": "$7.42"
+      }, {
+        "id": 8,
+        "company_name": "Zooxo",
+        "employee_name": "Toby Ondrak",
+        "salary": "$0.27"
+      }, {
+        "id": 9,
+        "company_name": "Linkbridge",
+        "employee_name": "Chauncey Reston",
+        "salary": "$0.16"
+      }, {
+        "id": 10,
+        "company_name": "Tanoodle",
+        "employee_name": "Noe Mee",
+        "salary": "$5.13"
+      }]
+}
